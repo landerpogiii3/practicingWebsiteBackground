@@ -11,15 +11,15 @@ html, body{
 }
 
 .img1{
-    background: url(/img/pexels-hasan-albari-1229861.jpg);
+    background: url(img/pexels-hasan-albari-1229861.jpg);
     min-height: 100%;
 }
 .img2{
-    background: url(/img/pexels-pixabay-531880.jpg);
+    background: url(img/pexels-pixabay-531880.jpg);
     min-height: 60%;
 }
 .img3{
-    background: url(/img/pexels-s-migaj-747964.jpg);
+    background: url(img/pexels-s-migaj-747964.jpg);
     min-height: 100%;
 }
 .img1, .img2, .img3{
